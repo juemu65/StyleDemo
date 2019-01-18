@@ -1,10 +1,8 @@
-# Demo
+# Radio
 
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="Radio.mp4" type="video/mp4">
-</video>
+![GitHub](https://github.com/juemu65/Task/blob/master/T1/img/T.jpeg "GitHub,Social Coding")
 
-[Demo](https://juemu65.github.io/StyleDemo/Radio/Radio.html)
+[Radio](https://juemu65.github.io/StyleDemo/Radio/Radio.html)
 
 
 
